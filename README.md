@@ -2,7 +2,7 @@
 
 💻computer science grad at mumbai university<br/>
 ⚡I create mobile applications for fun <br/>
-🔭 I’m currently working on DevOps & Cloud technologies<br/>
+🔭 I’m currently working hands-on DevOps & Cloud technologies<br/>
 📫 How to reach me: https://www.linkedin.com/in/shraddhanaik78/ <br/>
 😄 Pronouns: she/her<br/>
 ⚡ Fun fact:<br/>
