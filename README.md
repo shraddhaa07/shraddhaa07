@@ -1,4 +1,10 @@
-## Hi I am Shraddha 👋
+<p align="left">
+  <a href="https://github.com/shraddhaa07">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=750&color=F7941D&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Shraddha+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</p>
+
+<!--## Hi I am Shraddha 👋-->
 
 💻computer science grad at mumbai university<br/>
 ⚡I create mobile applications for fun <br/>
