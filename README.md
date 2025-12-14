@@ -6,7 +6,7 @@
 
 <!--## Hi I am Shraddha 👋-->
 
-💻computer science grad at mumbai university<br/>
+### 💻computer science grad at mumbai university<br/>
 ⚡I create mobile applications for fun <br/>
 🔭 I’m currently working hands-on DevOps & Cloud technologies<br/>
 📫 How to reach me: https://www.linkedin.com/in/shraddhanaik78/ <br/>
