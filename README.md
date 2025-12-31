@@ -11,6 +11,7 @@
 📫 How to reach me: https://www.linkedin.com/in/shraddhanaik78/ <br/>
 😄 Pronouns: she/her<br/>
 ⚡ Fun fact: the best adventures happen when I'm not sitting in front of my laptop✨<br/>
+love dancing</br>
 
 
 ## 🌐 Socials:
@@ -29,7 +30,6 @@
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
-
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
