@@ -9,6 +9,7 @@
 ⚡I create mobile applications for fun <br/>
 🔭 I’m currently working hands-on DevOps & Cloud technologies<br/>
 📫 How to reach me: https://www.linkedin.com/in/shraddhanaik78/ <br/>
+🚀contribute to open source in my free time
 😄 Pronouns: she/her<br/>
 ⚡ Fun fact: the best adventures happen when I'm not sitting in front of my laptop✨<br/>
 
