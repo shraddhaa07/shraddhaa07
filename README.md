@@ -5,7 +5,7 @@
 </p>
 
 <!--## Hi I am Shraddha 👋-->
-💻computer science grad at mumbai university<br/>
+💻computer science grad at mumbai university:)<br/>
 ⚡I create mobile applications for fun <br/>
 🔭 I’m currently working hands-on DevOps & Cloud technologies<br/>
 🚀contribute to open source in my free time <br/>
